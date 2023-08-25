@@ -1,3 +1,7 @@
 # [Doordash](https://www.doordash.com/)
 # [Foodchow](https://www.foodchow.com/)
 # [Grubhub](https://www.grubhub.com/)
+# [UpMenu](https://www.upmenu.com/)
+# [SquareUp](https://squareup.com/us/en/online-ordering)
+# [Deliveroo](https://deliveroo.co.uk/)
+# [Toast TakeOut](https://www.toasttakeout.com/)
